@@ -29,4 +29,4 @@
 - Email: stanislaw.comza@gmail.com
 
 ---
-<p align="center"><i>Открыт к стажировкам и junior-позициям (Python Backend, Минск / remote)</i></p>
+<p align="center"><i>Открыт к стажировкам и junior-позициям (Python Backend)</i></p>
